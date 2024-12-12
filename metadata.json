@@ -1,7 +1,12 @@
 {
   "name": "CASH Syria",
   "symbol": "CASHSY",
-  "description": "Intansh Payemnt, and Money Transfers",
+  "description": "Instant Payment & Money Transfers",
   "image": "https://raw.githubusercontent.com/yafatek/cash-sy/3fd3c267d6f627aadcead1e08c26a02f18fb7b0a/logo.png",
-  "external_url": "https://cashsy.xyz"
+  "external_url": "https://cashsy.xyz",
+  "website": "https://cashsy.xyz",
+  "twitter": "https://twitter.com/cashsy.xyz",
+  "attributes": [ 
+    { "trait_type": "Category", "value": "Payments" } 
+  ] 
 }
